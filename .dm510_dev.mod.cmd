@@ -1,0 +1,1 @@
+savedcmd_/home/dm510/dm510/linux-6.6.9/kernel/dm510/assignment2/dm510_dev.mod := printf '%s\n'   dm510_dev.o | awk '!x[$$0]++ { print("/home/dm510/dm510/linux-6.6.9/kernel/dm510/assignment2/"$$0) }' > /home/dm510/dm510/linux-6.6.9/kernel/dm510/assignment2/dm510_dev.mod
